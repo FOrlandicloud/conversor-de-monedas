@@ -68,7 +68,7 @@ Este programa es una aplicación de consola que permite realizar conversiones en
   100 USD = 9847.00 ARS
   ```
 ## Demostracion en GIF
-![Demo del conversor](ruta/al/archivo.gif)
+![Demo del conversor](images/Conversor-demo.gif)
 
 ## Personalización
 
