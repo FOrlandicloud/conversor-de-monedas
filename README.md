@@ -24,7 +24,7 @@ Este programa es una aplicación de consola que permite realizar conversiones en
 1. **Descargar las dependencias necesarias**: Asegúrate de tener `Gson` en tu proyecto. Puedes descargar la librería de su repositorio de GitHub o usar un gestor de dependencias como Maven o Gradle.
 2. **Clonar el proyecto**:
    ```bash
-   git clone https://github.com/tu_usuario/conversor-monedas.git
+   git clone https://github.com/FOrlandicloud/conversor-monedas.git
    ```
 3. **Agregar tu API key**: En la clase `ConsultaMoneda`, reemplaza `API-KEY` por tu propia clave obtenida en [ExchangeRate-API](https://www.exchangerate-api.com/).
 4. **Compilar y ejecutar el programa**:
